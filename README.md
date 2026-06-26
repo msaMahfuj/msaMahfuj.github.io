@@ -21,15 +21,8 @@ This website is designed to showcase my academic qualifications, research contri
 
 ## 📁 File Structure
 - `index.html` - The main codebase.
-- `profile.jpg` - Profile photograph (Needs to be uploaded).
-- `CV.pdf` - My latest academic resume (Needs to be uploaded).
-
-## ✍️ How to Update
-If I need to update my research or contact info:
-1. Open `index.html`.
-2. Locate the specific section (e.g., `<section id="research">`).
-3. Edit the text between the tags.
-4. Commit changes to see them live.
+- `profile.jpg` - Profile photograph.
+- `CV.pdf` - My latest academic resume.
 
 ---
 © 2026 Md. Shamsul Alam Mahfuj
